@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter and Dart for my College's Summer Project**
 
-- 📫 How to reach me **bkjwjason@gmail.com** or message me on <a href="https://www.linkedin.com/in/jason-baek-574276211/"><my LinkedIn Profile></a>
+- 📫 How to reach me **bkjwjason@gmail.com** or message me on <a href="https://www.linkedin.com/in/jason-baek-574276211/">my LinkedIn Profile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
