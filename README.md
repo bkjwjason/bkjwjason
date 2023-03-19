@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">I love learning anything tech related!</h3>
 
-- 🌱 I’m currently learning **Flutter and Dart** for my College's Summer Project**
+- 🌱 I’m currently learning **Flutter and Dart** for my College's Summer Project
 
-- 📫 How to reach me: **bkjwjason@gmail.com** or message me on <a href="https://www.linkedin.com/in/jason-baek-574276211/">my LinkedIn Profile</a>
+- 📫 How to reach me: **bkjwjason@gmail.com** or message me on <a href="https://www.linkedin.com/in/jason-baek-574276211/">**my LinkedIn Profile**</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
