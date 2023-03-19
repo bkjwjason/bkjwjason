@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter and Dart for my College's Summer Project**
 
-- 📫 How to reach me **bkjwjason@gmail.com**
+- 📫 How to reach me **bkjwjason@gmail.com** or message me on <a href="https://www.linkedin.com/in/jason-baek-574276211/"><my LinkedIn Profile>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bkjwjason&show_icons=true&locale=en&layout=compact" alt="bkjwjason" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bkjwjason&show_icons=true&locale=en" alt="bkjwjason" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkjwjason&" alt="bkjwjason" /></p>
