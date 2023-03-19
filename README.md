@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jason</h1>
+<h1 align="center">Hi, I'm Jason 👋</h1>
 <h3 align="center">I love learning anything tech related!</h3>
 
 - 🌱 I’m currently learning **Flutter and Dart** for my College's Summer Project
