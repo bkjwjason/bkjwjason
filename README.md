@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Flutter and Dart** for my College's Summer Project
 
+- ✍️ I'm also working on my <a href = "https://bkjwjason.github.io/portfolio/"> portfolio website </a> made using React
+
 - 📫 How to reach me: **bkjwjason@gmail.com** or message me on <a href="https://www.linkedin.com/in/jason-baek-574276211/">**my LinkedIn Profile**</a>
 
 <h3 align="left">Languages and Tools:</h3>
